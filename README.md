@@ -1,5 +1,7 @@
 Make a new commit to master branch
 
+Make another commit to master branch
+
 [![Build Status](https://dev.azure.com/leroysong0630/leroysong/_apis/build/status/leroysong.pipelines-java?branchName=master)](https://dev.azure.com/leroysong0630/leroysong/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
